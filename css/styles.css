@@ -68,7 +68,7 @@ border-radius: 0;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 0 x solid #61122f;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -81,7 +81,7 @@ border-radius: 0;
 
 .nav-brand {
   color: #FFFFFF;
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 #nav-list {
