@@ -68,7 +68,8 @@ background-color: #D3d3d3;
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+border-radius: 0;
+  background-color: #f6b319;
   color: #FFFFFF;
 }
 
