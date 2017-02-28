@@ -9,9 +9,7 @@ h1 {
 	color: #000000;
 }
 
-body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+body { background-color: #FEF5CA;
 
 }
 
@@ -100,7 +98,7 @@ section {
 
 .navbar-brand {
   font-size: 2em;
-  border: 0 0 10px 10px;
+  border: 0 0 0px 0px;
   color: #FFFFFF;
 }
 
@@ -111,7 +109,7 @@ section {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 0px solid #61122f;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
